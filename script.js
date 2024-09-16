@@ -75,9 +75,5 @@ async function updateTable() {
   console.log("Table updated.");
 }
 
+// run app
 updateTable();
-
-//console.log(data.dataset.dimension.Alue.category.label);
-//data.dataset.dimension.Alue.category.label.forEach(label => {
-//  console.log(`Municipality: ${label}`)
-//});
